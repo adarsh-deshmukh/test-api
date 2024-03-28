@@ -1,0 +1,34 @@
+{
+  "response": [
+    {
+      "status": "ok",
+      "token": "SIGNING_TOKEN",
+      "action": "signing_completed|signer_signed|signing_archived",
+      "file": "https://gateway-sandbox.dokobit.com/api/signing/SIGNING_TOKEN/download",
+      "signer": "60001019906",
+      "signer_info": {
+        "code": "60001019906",
+        "phone": "+37000000766",
+        "country_code": "lt",
+        "signing_option": "mobile",
+        "type": "qes|aes|es"
+      },
+      "id": "d51f"
+    },
+    {
+      "id": "d18e",
+      "status": "cancelled",
+      "token": "SIGNING_TOKEN",
+      "action": "signing_completed|signer_signed|signing_archived",
+      "file": "https://gateway-sandbox.dokobit.com/api/signing/SIGNING_TOKEN/download",
+      "signer": "60001019906",
+      "signer_info": {
+        "code": "60001019906",
+        "phone": "+37000000766",
+        "country_code": "lt",
+        "signing_option": "mobile",
+        "type": "qes|aes|es"
+      }
+    }
+  ]
+}
